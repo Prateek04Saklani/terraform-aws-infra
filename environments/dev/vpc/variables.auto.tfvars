@@ -1,0 +1,5 @@
+cidr                = "10.0.0.0/16"
+app                 = "myapp"
+env                 = "dev"
+log_group           = "myapp-dev-vpc-flow-logs"
+flow_logs_role_name = "myapp-dev-vpc-flow-logs-role"
